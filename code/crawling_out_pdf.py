@@ -3,6 +3,7 @@ import requests
 from lxml import etree
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import pandas as pd
 """
 爬取教育部官网高等职业学校专业教学标准
@@ -12,12 +13,17 @@ url = "http://www.moe.gov.cn/s78/A07/zcs_ztzl/2017_zt06/17zt06_bznr/bznr_zdzyxxz
 =======
 =======
 >>>>>>> ba96a5eb739f85ef566c5417785ef6ab26d688bc
+=======
+>>>>>>> ba96a5eb739f85ef566c5417785ef6ab26d688bc
 
 """
 爬取教育部官网高等职业学校专业教学标准
 """
 url = "http://www.moe.gov.cn/s78/A07/zcs_ztzl/2017_zt06/17zt06_bznr/bznr_gzjxbz/"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ba96a5eb739f85ef566c5417785ef6ab26d688bc
+=======
 >>>>>>> ba96a5eb739f85ef566c5417785ef6ab26d688bc
 =======
 >>>>>>> ba96a5eb739f85ef566c5417785ef6ab26d688bc
@@ -90,7 +96,11 @@ def get_paper(url):
                 print(papername)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 path = f"C:/Users/36974/Desktop/data/{yijidata[1][index_1].strip()}/{erjidata[1][index_1][index_2].strip()}"
+=======
+                path = f"C:/Users/36974/Desktop/2324/{yijidata[1][index_1].strip()}/{erjidata[1][index_1][index_2].strip()}"
+>>>>>>> ba96a5eb739f85ef566c5417785ef6ab26d688bc
 =======
                 path = f"C:/Users/36974/Desktop/2324/{yijidata[1][index_1].strip()}/{erjidata[1][index_1][index_2].strip()}"
 >>>>>>> ba96a5eb739f85ef566c5417785ef6ab26d688bc
@@ -103,7 +113,11 @@ def get_paper(url):
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 signal_paper_url = f"http://www.moe.gov.cn/s78/A07/zcs_ztzl/2017_zt06/17zt06_bznr/bznr_zdzyxxzyml/{yiji}{erji}" + paperul
+=======
+                signal_paper_url = f"http://www.moe.gov.cn/s78/A07/zcs_ztzl/2017_zt06/17zt06_bznr/bznr_gzjxbz{yiji}{erji}" + paperul
+>>>>>>> ba96a5eb739f85ef566c5417785ef6ab26d688bc
 =======
                 signal_paper_url = f"http://www.moe.gov.cn/s78/A07/zcs_ztzl/2017_zt06/17zt06_bznr/bznr_gzjxbz{yiji}{erji}" + paperul
 >>>>>>> ba96a5eb739f85ef566c5417785ef6ab26d688bc
@@ -118,6 +132,7 @@ def get_paper(url):
                 print(f'PDF downloaded successfully: {savefile}')
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 xpath = "C:/Users/36974/Desktop/data/type-info.xlsx"
                 if not os.path.exists(xpath):
                     df = pd.DataFrame(columns=['yiji', 'erji', 'wenzhang'])
@@ -129,6 +144,8 @@ def get_paper(url):
 =======
 =======
 >>>>>>> ba96a5eb739f85ef566c5417785ef6ab26d688bc
+=======
+>>>>>>> ba96a5eb739f85ef566c5417785ef6ab26d688bc
                 # xpath = "./xuexiao.xlsx"
                 # if not os.path.exists(xpath):
                 #     df = pd.DataFrame(columns=['yiji', 'erji', 'wenzhang'])
@@ -138,6 +155,9 @@ def get_paper(url):
                 # df = pd.concat([df, pd.DataFrame([new_data])], ignore_index=True)
                 # df.to_excel(xpath, index=False)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ba96a5eb739f85ef566c5417785ef6ab26d688bc
+=======
 >>>>>>> ba96a5eb739f85ef566c5417785ef6ab26d688bc
 =======
 >>>>>>> ba96a5eb739f85ef566c5417785ef6ab26d688bc

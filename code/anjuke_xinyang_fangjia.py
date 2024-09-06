@@ -8,8 +8,13 @@ from lxml import etree
 """
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 location = ['abcdefghijklm','pingqiaob','yangshanxinqu']
 #location = ['huaibin']
+=======
+# location = ['abcdefghijklm','pingqiaob','yangshanxinqu']
+location = ['huaibin']
+>>>>>>> ba96a5eb739f85ef566c5417785ef6ab26d688bc
 =======
 # location = ['abcdefghijklm','pingqiaob','yangshanxinqu']
 location = ['huaibin']
@@ -29,7 +34,10 @@ for locationdata in location:
         response.encoding = "utf-8"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         print("状态码:",response.status_code)
+=======
+>>>>>>> ba96a5eb739f85ef566c5417785ef6ab26d688bc
 =======
 >>>>>>> ba96a5eb739f85ef566c5417785ef6ab26d688bc
 =======
