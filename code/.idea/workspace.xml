@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c11175c-f368-4026-92ae-eb4eb7ae70ef" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/anjuke_xinyang_fangjia.py" beforeDir="false" afterPath="$PROJECT_DIR$/anjuke_xinyang_fangjia.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawling_out_pdf.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawling_out_pdf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/gaozhi.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/gaozhi_gongban_info.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/gaozhi_mingban_info.xlsx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2l0FNhaw1ShIuZQkUCQfFHq71uJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c11175c-f368-4026-92ae-eb4eb7ae70ef" name="Changes" comment="" />
+      <created>1724309048622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724309048622</updated>
+      <workItem from="1724309049918" duration="3000" />
+      <workItem from="1724401386942" duration="8000" />
+      <workItem from="1725504569238" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
